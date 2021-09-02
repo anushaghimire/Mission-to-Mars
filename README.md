@@ -7,6 +7,14 @@ The purpose of the project is to help scraping and adding the images of Mars’s
  - Updated the Web App with Mars Hemisphere Images and Titles.
  - Added Bootstrap 3 Components.
 
+## Results
+These are the images of the four hemispheres.
+
+
+<img width="423" alt="Screen Shot 2021-09-02 at 2 12 40 PM" src="https://user-images.githubusercontent.com/85364095/131916946-9fb47b0c-81cd-47ec-925c-80d97effd851.png">
+
+
+
 
 
 
