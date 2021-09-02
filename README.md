@@ -13,6 +13,10 @@ These are the images of the four hemispheres.
 
 <img width="423" alt="Screen Shot 2021-09-02 at 2 12 40 PM" src="https://user-images.githubusercontent.com/85364095/131916946-9fb47b0c-81cd-47ec-925c-80d97effd851.png">
 
+I made the website mobile responsive.
+
+
+<img width="1393" alt="Mobile responsive image" src="https://user-images.githubusercontent.com/85364095/131917097-1a27aac0-a1b9-4b0b-8cad-27a3494a2b74.png">
 
 
 
